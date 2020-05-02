@@ -1,0 +1,4 @@
+Carga maxima do elevador expresso em Kilogramas: 
+500
+Numero de pisos do edificio: 
+4

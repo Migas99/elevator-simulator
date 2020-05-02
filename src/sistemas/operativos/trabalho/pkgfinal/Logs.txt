@@ -1,0 +1,45 @@
+Piso actual: 3
+Destino: 1
+
+Piso actual: 1
+Destino: 4
+
+Piso actual: 2
+Destino: 5
+
+Piso actual: 2
+Destino: 4
+
+Piso actual: 4
+Destino: 3
+
+Piso actual: 3
+Destino: 4
+
+Piso actual: 4
+Destino: 1
+
+Piso actual: 1
+Destino: 4
+
+Piso actual: 3
+Destino: 1
+
+Piso actual: 1
+Destino: 4
+
+Piso actual: 4
+Destino: 2
+
+Piso actual: 2
+Destino: 3
+
+Piso actual: 4
+Destino: 3
+
+Piso actual: 3
+Destino: 4
+
+Piso actual: 4
+Destino: 1
+
